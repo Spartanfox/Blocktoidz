@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589303648673",
+    "firebase_url": "https://blocktoidz-free.firebaseio.com",
+    "project_id": "blocktoidz-free",
+    "storage_bucket": "blocktoidz-free.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589303648673:android:ced36ba62a7e0b97",
+        "android_client_info": {
+          "package_name": "com.spartanfox.blocktoidz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589303648673-i5narsl35k3nr7bnus1vhttg0f4sl1d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spartanfox.blocktoidz",
+            "certificate_hash": "38f24fd32bdd5415f0100c82c0ae24e4f40bebf8"
+          }
+        },
+        {
+          "client_id": "589303648673-ap2q3hetaim129lmmqg97e6ji89v336j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPq0edp7bSJ9LVFd-l2UJU9hlznxOATgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589303648673-ap2q3hetaim129lmmqg97e6ji89v336j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
